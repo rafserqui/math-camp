@@ -8,7 +8,7 @@ This repository contains Jupyter Notebooks, PDFs, and TeX files for the math-cam
 
 # Topics
 
-## Chapter 1: Single Variable Functions
-## Chapter 2: Derivatives
-## Chapter 3: Integral Calculus
-## Chapter 4: Linear Algebra
+[Chapter 1: Single Variable Functions](chapter-1/ch1_alt.pdf)
+[Chapter 2: Derivatives](chapter-2/ch2_alt.pdf)
+[Chapter 3: Integral Calculus](chapter-3/ch3_alt.pdf)
+[Chapter 4: Linear Algebra](chapter-4/ch4_alt.pdf)
