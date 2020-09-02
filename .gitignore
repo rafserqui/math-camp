@@ -5,3 +5,7 @@
 *.log
 *.out
 *.synctex.gz
+
+# Python cache files
+*__pycache__/
+*pytest_cache/
